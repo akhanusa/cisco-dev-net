@@ -1,5 +1,0 @@
-Cisco
-Juniper
-ALU
-Extreme
-Arista
